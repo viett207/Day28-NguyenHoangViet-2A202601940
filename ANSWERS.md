@@ -1,7 +1,6 @@
 # BÁO CÁO GIẢI TRÌNH KỸ THUẬT (ANSWERS.MD)
 ## Lab 28 Track 2 — Modern AI Platform Integration & Production Readiness
-**Người thực hiện / Nhóm:** Nguyễn Hoàng Việt (Mã số: 2A202601940)  
-**Nhánh Git:** `ca-nhan-nguyenhoangviet`  
+**Người thực hiện:** Nguyễn Hoàng Việt (Mã số: 2A202601940)  
 **Ngày hoàn thành:** 2026-09-04  
 
 ---
